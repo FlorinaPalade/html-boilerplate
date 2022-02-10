@@ -35,3 +35,5 @@ Se urmeaza instructiunile de `add`si `commit`
 Inainte de a da `push` se va da un `git pull` pentru a sincroniza ce e local cu ce e pe github
 
 Se poate rula `git push` care va contine modificarile locale si cele de pe github
+
+End documentatie
