@@ -1,0 +1,37 @@
+/* START RESET */
+body {
+  -webkit-print-color-adjust: exact !important;
+}
+
+html {
+  font-size: 10px; /*Stabilim dimensiunea de 1rem*/
+}
+
+body {
+  font-family: sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+textarea,
+input:focus,
+textarea:focus {
+  border: unset;
+  outline: unset;
+  box-shadow: unset;
+}
+/* END RESET */
